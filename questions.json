@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Which of the following is a number 12",
+        "choise1": "11",
+        "choise2": "12",
+        "choise3": "13",
+        "choise4": "15",
+        "answer": 2
+    },
+    {
+        "question": "What number is missing 11,12,14,15",
+        "choise1": "11",
+        "choise2": "12",
+        "choise3": "13",
+        "choise4": "15",
+        "answer": 3
+    },
+    {
+        "question": "What number will come next 54,55,56,?  ",
+        "choise1": "52",
+        "choise2": "62",
+        "choise3": "73",
+        "choise4": "57",
+        "answer": 4
+    }
+]
