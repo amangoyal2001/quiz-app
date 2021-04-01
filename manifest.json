@@ -30,7 +30,7 @@
     "related_applications": [
         {
             "platform": "webapp",
-            "url": ""
+            "url": "https://amangoyal2001.github.io/quiz-app//manifest.json"
         }
     ],
     "prefer_related_applications": true,
